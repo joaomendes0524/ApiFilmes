@@ -1,5 +1,5 @@
 import React, {Component} from 'React';
-import {SafeAreaView,Text,StyleShee,FlatList,} from 'react-native'
+import {SafeAreaView,Text,StyleSheet,FlatList,} from 'react-native'
 import api from '.src/services/api';
 import filme from './src/pages/filmes';
 
